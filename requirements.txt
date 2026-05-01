@@ -1,0 +1,9 @@
+stremalit
+tensorflow
+numpy
+pandas
+scikit-learn
+pillow
+matplotlib
+seaborn
+json
