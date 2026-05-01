@@ -7,3 +7,4 @@ pillow
 matplotlib
 seaborn
 json
+python 3.12
