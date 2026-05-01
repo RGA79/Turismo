@@ -4,7 +4,7 @@
 La idea es crear un modelo que me clasifique mis fotos favoritas entre Mar, Ciudad y Montania
 
 ## Demo
-
+https://turismo-yvznjzii6hk7mc5ud4fybx.streamlit.app/
 
 ## Por que este tema
 Uno de mis hobbies favoritos es viajar, y de los lugares visitados siempre me llevo
